@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{66846881-9365-479B-9BBC-B8F2D781916D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MathInterpreter</RootNamespace>
+    <AssemblyName>MathInterpreter</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseInterpreter.cs" />
+    <Compile Include="E.cs" />
+    <Compile Include="Extentions.cs" />
+    <Compile Include="Functions\ConvertToRadiant.cs" />
+    <Compile Include="Functions\Cosinus.cs" />
+    <Compile Include="Functions\Power.cs" />
+    <Compile Include="Functions\Round.cs" />
+    <Compile Include="Functions\Sinus.cs" />
+    <Compile Include="IInterpreter.cs" />
+    <Compile Include="IMathFunction.cs" />
+    <Compile Include="IMathMeta.cs" />
+    <Compile Include="IMathOperator.cs" />
+    <Compile Include="MathMetaBase.cs" />
+    <Compile Include="Functions\Absolute.cs" />
+    <Compile Include="NumberResult.cs" />
+    <Compile Include="Operators\Addition.cs" />
+    <Compile Include="Operators\RightParenthesis.cs" />
+    <Compile Include="Functions\Cosh.cs" />
+    <Compile Include="Operators\Degree.cs" />
+    <Compile Include="Operators\Division.cs" />
+    <Compile Include="Functions\Exp.cs" />
+    <Compile Include="Operators\LeftParenthesis.cs" />
+    <Compile Include="Functions\Ln.cs" />
+    <Compile Include="Functions\Log.cs" />
+    <Compile Include="Operators\Modulus.cs" />
+    <Compile Include="Operators\Multiplication.cs" />
+    <Compile Include="Functions\Sinh.cs" />
+    <Compile Include="Functions\SquareRoot.cs" />
+    <Compile Include="Operators\Subtraction.cs" />
+    <Compile Include="Functions\Tangent.cs" />
+    <Compile Include="Functions\Tanh.cs" />
+    <Compile Include="OrderOfOperators.cs" />
+    <Compile Include="PI.cs" />
+    <Compile Include="PredefinedConstant.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

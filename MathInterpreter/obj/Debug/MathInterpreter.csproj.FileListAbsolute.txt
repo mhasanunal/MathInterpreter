@@ -1,0 +1,5 @@
+D:\git\parsers\MathInterpreter\MathInterpreter\bin\Debug\MathInterpreter.dll
+D:\git\parsers\MathInterpreter\MathInterpreter\bin\Debug\MathInterpreter.pdb
+D:\git\parsers\MathInterpreter\MathInterpreter\obj\Debug\MathInterpreter.dll
+D:\git\parsers\MathInterpreter\MathInterpreter\obj\Debug\MathInterpreter.pdb
+D:\git\parsers\MathInterpreter\MathInterpreter\obj\Debug\MathInterpreter.csprojAssemblyReference.cache

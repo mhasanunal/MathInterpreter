@@ -1,0 +1,10 @@
+D:\git\parsers\MathInterpreter\MathInterpreter\bin\Debug\Math-1plugin.dll
+D:\git\parsers\MathInterpreter\MathInterpreter\bin\Debug\Math-1plugin.pdb
+D:\git\parsers\MathInterpreter\Test\bin\Debug\Math-1plugin.dll
+D:\git\parsers\MathInterpreter\Test\bin\Debug\Math-1plugin.pdb
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\bin\Debug\Math-1plugin.dll
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\bin\Debug\Math-1plugin.pdb
+D:\git\parsers\MathInterpreter\Math-1plugin\obj\Debug\Math-1plugin.csprojAssemblyReference.cache
+D:\git\parsers\MathInterpreter\Math-1plugin\obj\Debug\Math-1plugin.csproj.CopyComplete
+D:\git\parsers\MathInterpreter\Math-1plugin\obj\Debug\Math-1plugin.dll
+D:\git\parsers\MathInterpreter\Math-1plugin\obj\Debug\Math-1plugin.pdb

@@ -1,0 +1,15 @@
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\bin\Debug\MathInterpreter.Tests.dll
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\bin\Debug\MathInterpreter.Tests.pdb
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\bin\Debug\MathInterpreter.dll
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\bin\Debug\MathInterpreter.pdb
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\obj\Debug\MathInterpreter.Tests.csprojAssemblyReference.cache
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\obj\Debug\MathInterpreter.Tests.csproj.CopyComplete
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\obj\Debug\MathInterpreter.Tests.dll
+D:\git\parsers\MathInterpreter\MathInterpreter.Tests\obj\Debug\MathInterpreter.Tests.pdb
