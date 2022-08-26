@@ -17,7 +17,7 @@ You can also:
   - Define a variable, define a constant. In this case, your variables or constants should inherit "KeyNumberPair" class.
   - For further implementation futures, you would consider inheriting "PredefinedConstant" or "KnownVariable" classes.
 
-You need to end your library name with "....plugin.dll"
+You need to end your library name with "[Something]plugin.dll"
 # Sample usage:
 First create a simple interpreter from base class.
 ```csharp
